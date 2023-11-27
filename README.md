@@ -6,7 +6,8 @@ source.
 
 ## Building
 
-Run the provided script `build.sh`. Ensure the latest CUDA toolchain including `nvcc` is installed.
+Run the provided script `build.sh`. Ensure the latest CUDA toolchain including `nvcc` is installed. You 
+will also need to install the Git submodule for `libbmp`.
 
 ## Using
 
